@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Karam Khoury 👋
 
-<!--
-**karamkhoury88/karamkhoury88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Software Engineer · .NET & Azure · Fintech**
 
-Here are some ideas to get you started:
+I've spent 14+ years building secure, scalable financial systems — digital
+wallets, KYC, and payment platforms that move real money at scale. Currently
+Lead Software Engineer at Emirates Digital Wallet, based in Dubai, UAE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio → **[karamkhoury.me](https://karamkhoury.me)**
+
+---
+
+### What I do
+- **Backend & architecture:** C#, .NET Core, ASP.NET Core, microservices
+- **Cloud & DevOps:** Azure, Docker, CI/CD
+- **Data:** SQL Server, distributed systems
+- **Frontend:** React, Angular, TypeScript
+- **Leadership:** mentoring teams, technical direction, Agile/Scrum
+
+### Selected impact
+- 📈 **+50%** transaction volume on the Klip digital wallet
+- 🟢 **99.9%** sustained service uptime on Azure
+- 🔒 **−40%** security incidents (OWASP-aligned hardening)
+- ⚡ **−90%** customer onboarding time via digital KYC
+
+---
+
+### 📫 Connect
+- 🌐 Portfolio: **https://karamkhoury.me**
+- 💼 LinkedIn: https://www.linkedin.com/in/karamkhoury88/
+- 📧 karam.khoury88@gmail.com
+
+---
